@@ -1,0 +1,13 @@
+{
+    "name": "phpcodegroup/faker",
+    "description": "data faker",
+    "type": "project",
+    "authors": [
+        {
+            "name": "phpcodegroup",
+            "email": "phpcode@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
